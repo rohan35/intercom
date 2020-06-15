@@ -6,7 +6,7 @@ The distance is calculated with the below formula-:
  [https://en.wikipedia.org/wiki/Great-circle_distance]
 
 
-###Prerequisite
+### Prerequisite
 -Download eclipse and install it.
 [Eclipse Download Link](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-03/R/eclipse-inst-win64.exe&r=1)
 -Launch eclipse
@@ -16,12 +16,12 @@ The distance is calculated with the below formula-:
 -There are 6 test cases that will run sucessfully.
 
 
-###Build with
+### Build with
 - Java
 - eclipse
 - jUnit
 
-###Output
+### Output
 output of the program is in file output.txt file in root folder intercom/output.txt
 
-###End
+### End
